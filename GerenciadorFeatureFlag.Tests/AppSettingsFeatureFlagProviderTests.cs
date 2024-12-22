@@ -1,4 +1,4 @@
-using GerenciadorFeatureFlags;
+using C3i.GerenciadorFeatureFlags;
 using Microsoft.Extensions.Configuration;
 
 namespace GerenciadorFeatureFlag.Tests;

@@ -1,4 +1,4 @@
-using GerenciadorFeatureFlags;
+using C3i.GerenciadorFeatureFlags;
 
 namespace GerenciadorFeatureFlag.Tests;
 

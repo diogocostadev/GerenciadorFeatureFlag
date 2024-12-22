@@ -1,4 +1,4 @@
-﻿namespace GerenciadorFeatureFlags;
+﻿namespace C3i.GerenciadorFeatureFlags;
 
 public interface IFeatureFlagProvider
 {
